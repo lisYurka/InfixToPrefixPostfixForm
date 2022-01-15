@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransformExpression", "TransformExpression\TransformExpression.csproj", "{18A15081-8892-44ED-AFED-B74B2F102F85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18A15081-8892-44ED-AFED-B74B2F102F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18A15081-8892-44ED-AFED-B74B2F102F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18A15081-8892-44ED-AFED-B74B2F102F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18A15081-8892-44ED-AFED-B74B2F102F85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0B64E7E-13A8-49D9-9E60-3A96595A08F2}
+	EndGlobalSection
+EndGlobal
