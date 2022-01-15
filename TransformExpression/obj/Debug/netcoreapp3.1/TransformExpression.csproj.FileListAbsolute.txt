@@ -9,3 +9,14 @@ C:\Users\CatYura\source\repos\TransformExpression\TransformExpression\bin\Debug\
 C:\Users\CatYura\source\repos\TransformExpression\TransformExpression\bin\Debug\netcoreapp3.1\TransformExpression.pdb
 C:\Users\CatYura\source\repos\TransformExpression\TransformExpression\obj\Debug\netcoreapp3.1\TransformExpression.dll
 C:\Users\CatYura\source\repos\TransformExpression\TransformExpression\obj\Debug\netcoreapp3.1\TransformExpression.pdb
+C:\Users\CatYura\source\repos\TransformExpression\InfixToPrefixPostfixForm\TransformExpression\bin\Debug\netcoreapp3.1\TransformExpression.exe
+C:\Users\CatYura\source\repos\TransformExpression\InfixToPrefixPostfixForm\TransformExpression\bin\Debug\netcoreapp3.1\TransformExpression.deps.json
+C:\Users\CatYura\source\repos\TransformExpression\InfixToPrefixPostfixForm\TransformExpression\bin\Debug\netcoreapp3.1\TransformExpression.runtimeconfig.json
+C:\Users\CatYura\source\repos\TransformExpression\InfixToPrefixPostfixForm\TransformExpression\bin\Debug\netcoreapp3.1\TransformExpression.runtimeconfig.dev.json
+C:\Users\CatYura\source\repos\TransformExpression\InfixToPrefixPostfixForm\TransformExpression\bin\Debug\netcoreapp3.1\TransformExpression.dll
+C:\Users\CatYura\source\repos\TransformExpression\InfixToPrefixPostfixForm\TransformExpression\bin\Debug\netcoreapp3.1\TransformExpression.pdb
+C:\Users\CatYura\source\repos\TransformExpression\InfixToPrefixPostfixForm\TransformExpression\obj\Debug\netcoreapp3.1\TransformExpression.csprojAssemblyReference.cache
+C:\Users\CatYura\source\repos\TransformExpression\InfixToPrefixPostfixForm\TransformExpression\obj\Debug\netcoreapp3.1\TransformExpression.AssemblyInfoInputs.cache
+C:\Users\CatYura\source\repos\TransformExpression\InfixToPrefixPostfixForm\TransformExpression\obj\Debug\netcoreapp3.1\TransformExpression.AssemblyInfo.cs
+C:\Users\CatYura\source\repos\TransformExpression\InfixToPrefixPostfixForm\TransformExpression\obj\Debug\netcoreapp3.1\TransformExpression.dll
+C:\Users\CatYura\source\repos\TransformExpression\InfixToPrefixPostfixForm\TransformExpression\obj\Debug\netcoreapp3.1\TransformExpression.pdb

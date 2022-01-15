@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CatYura\\source\\repos\\TransformExpression\\TransformExpression\\TransformExpression.csproj": {}
+    "C:\\Users\\CatYura\\source\\repos\\TransformExpression\\InfixToPrefixPostfixForm\\TransformExpression\\TransformExpression.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CatYura\\source\\repos\\TransformExpression\\TransformExpression\\TransformExpression.csproj": {
+    "C:\\Users\\CatYura\\source\\repos\\TransformExpression\\InfixToPrefixPostfixForm\\TransformExpression\\TransformExpression.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CatYura\\source\\repos\\TransformExpression\\TransformExpression\\TransformExpression.csproj",
+        "projectUniqueName": "C:\\Users\\CatYura\\source\\repos\\TransformExpression\\InfixToPrefixPostfixForm\\TransformExpression\\TransformExpression.csproj",
         "projectName": "TransformExpression",
-        "projectPath": "C:\\Users\\CatYura\\source\\repos\\TransformExpression\\TransformExpression\\TransformExpression.csproj",
+        "projectPath": "C:\\Users\\CatYura\\source\\repos\\TransformExpression\\InfixToPrefixPostfixForm\\TransformExpression\\TransformExpression.csproj",
         "packagesPath": "C:\\Users\\CatYura\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CatYura\\source\\repos\\TransformExpression\\TransformExpression\\obj\\",
+        "outputPath": "C:\\Users\\CatYura\\source\\repos\\TransformExpression\\InfixToPrefixPostfixForm\\TransformExpression\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CatYura\\AppData\\Roaming\\NuGet\\NuGet.Config",
